@@ -1,1 +1,5 @@
 # AuraEssence
+AuraEssence is a modern, responsive web application designed for a luxury perfume shop. This project aims to deliver an immersive and seamless user experience by blending sleek design with engaging functionality. The homepage showcases a curated selection of perfumes with interactive product cards, hover effects, and a call-to-action banner, inviting users to explore exclusive collections. Each product has a dedicated page displaying comprehensive details, a gallery with multiple images, customer reviews, available sizes, and a social sharing button. Built with React.js for a dynamic interface and responsive design, AuraEssence prioritizes user engagement, making it easy for customers to navigate, explore products, and share their favorite scents. This project reflects the essence of luxury and simplicity, creating a sophisticated digital experience for fragrance enthusiasts.
+Skills: Front-End Development, Routing, Styling and Responsive Design, State
+Management, User Interactivity,Image Handling, Social Sharing Integration
+Tools:React,React Router,CSS,JavaScript,IDE or code editor (VS Code)
